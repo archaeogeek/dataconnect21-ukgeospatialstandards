@@ -1,3 +1,3 @@
-# Talk: Implementing GEMINI 2.3 (ISO19115:2003) as a GeoNetwork metadata profile #ISOTC211 2020 Plenary
+# Talk: Standards- why you should get involved
 
-See [archaeogeek.github.io/implementinggemini23](https://archaeogeek.github.io/implementinggemini23) for the live version of these slides or see printed version https://github.com/archaeogeek/implementinggemini23/gh-pages/ImplementingGemini23.pdf
+Talk to DataConnct21 in September 2021. See [archaeogeek.github.io/dataconnect21-ukgeospatialstandards](https://archaeogeek.github.io/dataconnect21-ukgeospatialstandards) for the live version of these slides
